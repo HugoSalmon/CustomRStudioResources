@@ -121,7 +121,7 @@
 }
 
 .ace_heading {
-  color: #bd93f9;
+  color: #cbaafb;
 }
 /* Markdown syntax fixes */
 .ace_string.ace_blockquote {
